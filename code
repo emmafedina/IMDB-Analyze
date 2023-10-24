@@ -1,0 +1,4 @@
+SELECT Director 
+FROM imdb_top 
+
+
